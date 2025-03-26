@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shreyas Vyavahare!
 
-🎯 Passionate Full Stack Developer | 💻 MERN Stack | 🌐 WordPress | 🛡️ Security Projects | 🚀 Always Building Something Cool
+🎯 Passionate Full Stack Developer | 💻 MERN Stack | 🛡️ Security Projects | 🚀 Always Building Something Cool
 
 ---
 
@@ -12,32 +12,32 @@
 | **Backend** | Node.js, Express.js, Spring Boot (Learning), PHP (WordPress) |
 | **Database** | MySQL, MongoDB |
 | **Dev Tools** | Git, GitHub, Postman, Docker, VS Code |
-| **Others** | WordPress Theme Development, REST APIs, Firebase, Socket.IO |
+| **Others** | WordPress Theme Development, REST APIs, Firebase, Socket.IO, Storybook |
 
 ---
 
 ## 🧩 Featured Projects
 
-🔸 **💬 Group Chat App (React + Node.js + MySQL)**  
-Real-time chat with authentication, group creation, and user management.
+🔸 **🧾 Asset Management System (MERN Stack)**  
+Built a complete asset management dashboard with role-based access, asset allocation, logs, and audit trails.
+
+🔸 **📚 Storybook UI Component Library**  
+Created a reusable, styled React component library integrated with Storybook for scalable UI development across projects.
 
 🔸 **🛡️ Malicious File Monitor (Node.js)**  
 A backend utility that monitors and logs suspicious file activity (Dockerized & Documented).
 
-🔸 **📚 AI-Powered Chatbot (Gemini API)**  
+🔸 **🤖 AI-Powered Chatbot (Gemini API)**  
 Built an intelligent chatbot with stealth UI mode (hidden during screen sharing) for enhanced privacy.
 
 🔸 **🌐 Collaborative JS Code Compiler**  
 Live collaboration + real-time code compilation (React + Node + WebSockets).
 
-🔸 **📈 Resume Matcher / ATS Optimizer**  
-Tool that tailors your resume to specific job descriptions (NLP-based).
-
 ---
 
 ## 🚀 Currently Exploring
 
-- 📌 WordPress + PHP for theme and Gutenberg block development (rtCamp interview prep)
+- 📌 WordPress + PHP for theme and Gutenberg block development 
 - 📌 Spring Boot and Microservices
 - 📌 DevSecOps + Docker for project deployments
 - 📌 AFCAT preparation for Indian Air Force
@@ -46,8 +46,8 @@ Tool that tailors your resume to specific job descriptions (NLP-based).
 
 ## 🧑‍💻 Work Experience
 
-- 🏢 **Junior Front End Developer** @ Intelliswift Software India Pvt Ltd, Pune  
-  *Worked on scalable UI components, performance optimization, and team collaboration on real-world projects.*  
+- 🏢 **Junior Full Stack Developer** @ Intelliswift Software India Pvt Ltd, Pune  
+  *Worked on scalable UI components, Backend Services, performance optimization, and team collaboration on real-world projects.*  
   *(Until Dec 2024)*
 
 - 👨‍💻 **Intern - Front End Developer** @ Bangalore-based startup  
@@ -57,23 +57,18 @@ Tool that tailors your resume to specific job descriptions (NLP-based).
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio Website](#) *(Coming soon)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/shreyasvyavahare/)
-- 🐦 [Twitter](https://twitter.com/shreyasvyav)
-- 📧 Email: shreyasvyavahare12@gmail.com
+- 🌐 [Portfolio Website](#) (https://showkaseme.netlify.app/portfolio/shreyasvy12)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shreyas-vyavahare-088096216/)
+- 📧 Email: shreyasvy12@gmail.com
 
 ---
 
-## 📊 GitHub Stats
 
-![Shreyas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyasVyavahare&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVyavahare&layout=compact&theme=radical)
-
----
 
 ## ⚡ Fun Fact
 
 > I love blending tech with creativity — from chat apps to intelligent bots — and I believe every line of code should solve a problem or make someone smile 😊.
+> I love Riding Motor BEASTS , Climbing some Hardest Mountains and also a great sketcher and Painter
 
 ---
 
